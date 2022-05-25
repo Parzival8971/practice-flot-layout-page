@@ -1,2 +1,2 @@
-# practice-enterprise-web-page
+# practice-flot-web-page
 Just practice -flot
